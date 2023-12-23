@@ -1,0 +1,30 @@
+
+a{
+    color:red;
+    text-decoration-line: none;
+}
+h1{
+    text-align: center;
+    font-size :55px;
+    border-bottom: solid 2px rgb(255, 2, 36) ;
+    margin:0px;
+    padding :10px;
+}
+.saw{
+    color:aliceblue;
+}
+#active{
+    color:rgb(14, 230, 230);
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 3fr 8fr;
+}
+#item2{
+    padding-left: 20px;
+}
+#item1{
+    border-right: solid 2px;
+    padding-right: 20px;
+}
